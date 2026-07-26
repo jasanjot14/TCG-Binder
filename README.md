@@ -3,17 +3,17 @@
 TCGBinder is an iOS app for building a digital Pokémon card binder. It scans card photos, matches the correct printing, saves owned cards, and tracks estimated values for ungraded and graded copies.
 
 ## Demo
-
+https://github.com/user-attachments/assets/dba412a3-ff2e-4149-a839-8798995a51a9
 
 ## Screenshots
 
 | Binder | Scan | Match |
 |---|---|---|
-|  |  |  |
+| <img width="1170" height="2532" alt="IMG_4646" src="https://github.com/user-attachments/assets/e4fd9c40-d39a-43b7-a584-35b68689b38a" /> | <img width="1170" height="2532" alt="IMG_4647" src="https://github.com/user-attachments/assets/7242f5ee-8096-489d-b5dd-a5ffa076c047" /> | <img width="1170" height="2532" alt="IMG_4648" src="https://github.com/user-attachments/assets/1161291a-99bc-4513-b3dc-707e91802933" /> |
 
 | Manual correction | Ungraded values | Graded values |
 |---|---|---|
-|  |  |  |
+| <img width="1170" height="2532" alt="IMG_4649" src="https://github.com/user-attachments/assets/ae794687-9c7c-447f-8944-a9e74be287d2" /> | <img width="1170" height="2532" alt="IMG_4709" src="https://github.com/user-attachments/assets/93503fd0-e265-4ca8-b152-0248ca840e0f" /> | <img width="1170" height="2532" alt="IMG_4652" src="https://github.com/user-attachments/assets/e8e748ff-9a9e-4a5d-bfdd-ec234479a61a" /> |
 
 ## Features
 
