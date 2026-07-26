@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "TCG Binder",
+    "slug": "tcgbinder",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jasanjot.tcgbinder"
+    },
+    "android": {
+      "package": "com.jasanjot.tcgbinder"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "cameraPermission": "Allow TCG Binder to take sharp photos of your trading cards.",
+          "photosPermission": "Allow TCG Binder to import sharp photos of your trading cards.",
+          "microphonePermission": false
+        }
+      ]
+    ],
+    "scheme": "tcgbinder"
+  }
+}

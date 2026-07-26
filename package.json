@@ -1,0 +1,29 @@
+{
+  "name": "tcgbinder",
+  "version": "1.0.0",
+  "private": true,
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "ios": "expo start --ios",
+    "android": "expo start --android",
+    "typecheck": "tsc --noEmit",
+    "doctor": "npx expo-doctor@latest",
+    "companion": "node server/server.mjs"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^15.0.3",
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "~54.0.33",
+    "expo-image-picker": "~17.0.11",
+    "react": "19.1.0",
+    "react-native": "0.81.5"
+  },
+  "devDependencies": {
+    "@types/react": "~19.1.0",
+    "typescript": "~5.9.2"
+  },
+  "description": "Mobile TCG collection tracker with card recognition, pricing, and digital binder management.",
+  "author": "Jasanjot Gill",
+  "license": "MIT"
+}
