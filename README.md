@@ -1,6 +1,6 @@
 # TCGBinder
 
-TCGBinder is an iOS app for building a digital Pokémon card binder. It scans card photos, matches the correct printing, saves owned cards, and tracks estimated values for ungraded and graded copies.
+TCGBinder is an iOS trading-card collection app built with React Native and TypeScript. It uses Apple Vision OCR to scan Pokémon cards, identifies the corresponding card and printing through external card-data APIs, stores collections locally, and tracks estimated values for ungraded and graded copies.
 
 ## Demo
 https://github.com/user-attachments/assets/dba412a3-ff2e-4149-a839-8798995a51a9
@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/dba412a3-ff2e-4149-a839-8798995a51a9
 | Card data and ungraded prices | TCGdex |
 | Graded price estimates | RapidAPI Pokémon TCG API |
 
-## How It Works
+## Architecture
 
 ```text
 iOS app
